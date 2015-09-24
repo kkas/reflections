@@ -27,3 +27,11 @@ What is the benefit of having a copy of the last known state of the remote store
   By doing so, you may find out when updates are made on the remote repository by
   comparing the last known state of the local and the one on the remote.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  You don't have to remember all the commands need for collaboration. However, I think it
+  costs more if you don't use Git and GitHub, like manual operation and communication.
+  For example, you need to open up an email client to send a notification to your collaborators.
+  Also, you need to have a local server that hosts the shared resources which costs a lot.
+  These costs may cost more than the costs of learning how to use Git and GitHub.
+
