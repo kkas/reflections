@@ -1,1 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work local?
+
+  That is because I want to make sure what I am doing, in terms of merging commits to
+  the files on local machines.
