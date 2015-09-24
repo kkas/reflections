@@ -2,3 +2,17 @@ When would you want to use a remote repository rather than keeping all your work
 
   That is because I want to make sure what I am doing, in terms of merging commits to
   the files on local machines.
+
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
+
+  Pulling changes from a remote repository means fetching changes and merging them into
+  whatevet the branch specified. Therefore, you don't want git to automatically merge
+  commits to your branch behind the seen. Rather, you want to make sure what you have
+  been doing with the local and remote branches.
+
+  Also, you want to know if changes are commited on the remote repository. By syncing
+  changes manually, you will know it when you try to sync.
+
+
+
