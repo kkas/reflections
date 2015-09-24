@@ -14,5 +14,12 @@ stay up-to-date with your remote repository?
   Also, you want to know if changes are commited on the remote repository. By syncing
   changes manually, you will know it when you try to sync.
 
+Describe the differences between forks, clones, and branches. When would you use one
+instead of another?
+
+  Fork: Close to clone (copying the repository and reference to the original repository)
+        , which occurs only on GitHub.
+  Clones: To make a copy of a repository.
+  Branches: Labeling on a specific commit. It is used for organizing commits.
 
 
