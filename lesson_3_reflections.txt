@@ -35,3 +35,10 @@ How would you collaborate without using Git or GitHub? What would be easier, and
   Also, you need to have a local server that hosts the shared resources which costs a lot.
   These costs may cost more than the costs of learning how to use Git and GitHub.
 
+When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+  You don't mess up the master branch: you will always be able to keep it clean.
+  You can go back and forth between branches and work on something different on each branch.
+  You can collaborate with others by using topic branches to create pull requests, and
+  they can merge them after reviewing.
